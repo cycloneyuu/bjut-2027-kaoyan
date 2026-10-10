@@ -1,4 +1,4 @@
-name: Update news and deploy
+name: .github/workflows/update-and-deploy.yml
 on:
   schedule:
     - cron: '0 0 * * *' # 08:00 Asia/Shanghai (GitHub may delay scheduled runs)
