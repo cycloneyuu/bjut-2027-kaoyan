@@ -1,8 +1,197 @@
 {
-  "updated_at":"2026-10-10T08:00:00+08:00",
-  "status":"seed",
-  "items":[
-    {"id":"official-2027-full","title":"北京工业大学2027年全日制硕士研究生招生学科专业目录","published":"2026-10-08","source":"北京工业大学研究生招生网","category":"official","summary":"城市交通学院082300交通运输工程拟招35人（推免18、统考17）；086100交通运输拟招62人（推免31、统考31）。两专业初试科目④均为849交通与道路工程。","url":"https://yanzhao.bjut.edu.cn/info/1019/18194.htm","verified":true},
-    {"id":"official-2027-exemption","title":"北京工业大学2027年接收推免硕士生招生专业目录（更新）","published":"2026-09-04","source":"北京工业大学研究生招生网","category":"official","summary":"城市交通学院学硕拟推免18人，专硕拟推免31人。以最新官方通知为准。","url":"https://yanzhao.bjut.edu.cn/copy_1_content.jsp?urltype=news.NewsContentUrl&wbnewsid=18153&wbtreeid=1739","verified":true}
+  "updated_at": "2026-10-10T19:05:32+08:00",
+  "status": "ok",
+  "fetched_count": 48,
+  "items": [
+    {
+      "id": "official-2027-full",
+      "title": "北京工业大学2027年全日制硕士研究生招生学科专业目录",
+      "published": "2026-10-08",
+      "source": "北京工业大学研究生招生网",
+      "category": "official",
+      "summary": "城市交通学院082300交通运输工程拟招35人（推免18、统考17）；086100交通运输拟招62人（推免31、统考31）。两专业初试科目④均为849交通与道路工程。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18194.htm",
+      "verified": true
+    },
+    {
+      "id": "official-2027-exemption",
+      "title": "北京工业大学2027年接收推免硕士生招生专业目录（更新）",
+      "published": "2026-09-04",
+      "source": "北京工业大学研究生招生网",
+      "category": "official",
+      "summary": "城市交通学院学硕拟推免18人，专硕拟推免31人。以最新官方通知为准。",
+      "url": "https://yanzhao.bjut.edu.cn/copy_1_content.jsp?urltype=news.NewsContentUrl&wbnewsid=18153&wbtreeid=1739",
+      "verified": true
+    },
+    {
+      "id": "8c458a858e52a2e81d",
+      "title": "10-08 2026 åäº¬å·¥ä¸å¤§å­¦2027å¹´ç¡å£«ç ç©¶çæçç« ç¨",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1707/18191.htm",
+      "verified": false
+    },
+    {
+      "id": "8356d057db7c11c751",
+      "title": "10-08 2026 åäº¬å·¥ä¸å¤§å­¦2027å¹´å ¨æ¥å¶ç¡å£«ç ç©¶çæçå­¦ç§ä¸ä¸ç®å½",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1708/18193.htm",
+      "verified": false
+    },
+    {
+      "id": "b1fa08a20d239ed9a1",
+      "title": "10-08 2026 åäº¬å·¥ä¸å¤§å­¦2027å¹´éå ¨æ¥å¶ç¡å£«ç ç©¶çæçä¸ä¸ç®å½",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1708/18195.htm",
+      "verified": false
+    },
+    {
+      "id": "b08aa4a5faee57ca74",
+      "title": "10-08 2026 2027å ¨å½ç¡å£«ç ç©¶çæçèè¯ï¼åè¯ï¼åäº¬å·¥ä¸å¤§å­¦ï¼1105ï¼æ¥èç¹å ¬å",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1025/18197.htm",
+      "verified": false
+    },
+    {
+      "id": "7c95770ce532f54ab6",
+      "title": "07-21 2026 2027å¹´åäº¬å·¥ä¸å¤§å­¦ç¡å£«ç ç©¶çæçå­¦é¢ãèè¯ç§ç®ãèè¯å¤§çº²ç­è°æ´æ åµ",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1025/18129.htm",
+      "verified": false
+    },
+    {
+      "id": "0a0f86a3684887bca7",
+      "title": "åäº¬å·¥ä¸å¤§å­¦2027å¹´ç¡å£«ç ç©¶çæçç« ç¨",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18192.htm",
+      "verified": false
+    },
+    {
+      "id": "dcee662eadbf02a869",
+      "title": "åäº¬å·¥ä¸å¤§å­¦2027å¹´éå ¨æ¥å¶ç¡å£«ç ç©¶çæçä¸ä¸ç®å½",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18196.htm",
+      "verified": false
+    },
+    {
+      "id": "1a13d0c7e2da4f36bb",
+      "title": "北京工业大学|Beijing University of Technology",
+      "published": "",
+      "source": "www.bjut.edu.cn",
+      "category": "official",
+      "summary": "北工大有位老师既是在智能建造领域深耕细作的学者又是230413班事事操心的班主任日复一日，他用最朴素的陪伴把“用心”二字写进日常在他的带领下，全班斩获学校先进班集体、优秀团支部和标兵团支部等荣誉他就是建筑工程学院孙哲教授快跟工小V一起听听他 ...",
+      "url": "https://www.bjut.edu.cn/",
+      "verified": false
+    },
+    {
+      "id": "2bb22ff19508f3b179",
+      "title": "北京工业大学研究生招生网",
+      "published": "",
+      "source": "yanzhao.bjut.edu.cn",
+      "category": "official",
+      "summary": "北京工业大学2027年接收推荐免试研究生（含直博生）工作办法（含目录） 为服务支撑教育强国建设，加强高层次拔尖创新专门人才选拔培养，按照教育部有关硕士、博士研究生招生政策、管理办法和规定，结合本单位实际，制订...",
+      "url": "https://yanzhao.bjut.edu.cn/",
+      "verified": false
+    },
+    {
+      "id": "e256b34282efa975e2",
+      "title": "学校简介-北京工业大学|Beijing University of Technology",
+      "published": "",
+      "source": "www.bjut.edu.cn",
+      "category": "official",
+      "summary": "北京工业大学（Beijing University Of Technology）创建于1960年，是一所以工为主的多科性市属重点大学，覆盖工学、理学、经济学、管理学、文学、法学、教育学、艺术学、交叉学科等9个学科门类，1981年成为教育部批准的第一批硕士学位授予单位，1985年成为博士学位 ...",
+      "url": "https://www.bjut.edu.cn/xxgk/xxjj1.htm",
+      "verified": false
+    },
+    {
+      "id": "5f63879ca746ae534e",
+      "title": "硕士招生-北京工业大学研究生招生网",
+      "published": "",
+      "source": "yanzhao.bjut.edu.cn",
+      "category": "official",
+      "summary": "【新生】北京工业大学关于2026年拟录取硕士研究生录取通知书邮寄地址确认的通知",
+      "url": "https://yanzhao.bjut.edu.cn/sszs.htm",
+      "verified": false
+    },
+    {
+      "id": "a7c85c154314e8c592",
+      "title": "北工大本科招生网",
+      "published": "",
+      "source": "admissions.bjut.edu.cn",
+      "category": "official",
+      "summary": "招 生 快 讯 招生咨询&咨询方式汇总 一篇晓专业丨2026北工大招生专业汇总 爱北京，来工大！ 本周日北工大校园开放日，等你来！ 北京工业大学校长乔俊飞为你加油！ 北工大2026年本科招生专业组设置方案深度解析",
+      "url": "https://admissions.bjut.edu.cn/",
+      "verified": false
+    },
+    {
+      "id": "0fd41173202f967448",
+      "title": "北京工业大学2027年接收推荐免试研究生（含直博生）工作办法（含目录）-北京工业大学研究生招生网",
+      "published": "",
+      "source": "yanzhao.bjut.edu.cn",
+      "category": "official",
+      "summary": "北京工业大学2027年接收推免硕士生招生专业目录 （更新） 北京工业大学2027年直博生招生专业目录 附件【附件1-北京工业大学2027年接收推荐免试研究生招生考试考生诚信复试及硕士推免生复试设备环境要求.pdf】已下载 次",
+      "url": "https://yanzhao.bjut.edu.cn/info/1019/18155.htm",
+      "verified": false
+    },
+    {
+      "id": "f1cafdd1e8b71136c6",
+      "title": "北京工业大学_百度百科",
+      "published": "",
+      "source": "baike.baidu.com",
+      "category": "discussion",
+      "summary": "北京工业大学（Beijing University of Technology），创建于1960年，是一所以工为主、多学科协调发展的市属重点大学，由北京市人民政府举办、北京市教育委员会主管，为国家\"双一流\"建设高校、\"211工程\"重点建设高校，校本部位于北京市朝阳区。",
+      "url": "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6/159077",
+      "verified": false
+    },
+    {
+      "id": "9bd2640ab74c1cc977",
+      "title": "北京工业大学 - 维基百科，自由的百科全书",
+      "published": "",
+      "source": "zh.wikipedia.org",
+      "category": "discussion",
+      "summary": "北京工业大学， 简称 北工大，创立于1960年，是一所以 工学 为主， 理学 、 工学 、 文学 、 法学 、 经济学 、 管理学 、 教育学 、 艺术学 相结合的 综合性 市属 重点大学，于1981年成为国家教育部批准的第一批 硕士 学位授予单位，1985年成为 博士 学位授予 ...",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6",
+      "verified": false
+    },
+    {
+      "id": "9d3af5a4d324a6a1cc",
+      "title": "不吹不黑，现今的北京工业大学究竟是什么水平？ - 知乎",
+      "published": "",
+      "source": "www.zhihu.com",
+      "category": "discussion",
+      "summary": "对于北京生源来说，同等分数下，踏踏实实在北工大读个好专业（指的是工科啊），然后本校读个研，基本上就妥了。 你专业对应的单位，只要别太高了，北京生源加北工大本硕，已经差不多了。",
+      "url": "https://www.zhihu.com/question/295613730",
+      "verified": false
+    },
+    {
+      "id": "3234f31c78a91dee2c",
+      "title": "北京工业大学_院校信息库_阳光高考",
+      "published": "",
+      "source": "gaokao.chsi.com.cn",
+      "category": "discussion",
+      "summary": "北京工业大学（Beijing University Of Technology）创建于1960年，是一所以工为主的多科性市属重点大学，覆盖工学、理学、经济学、管理学、文学、法学、教育学、艺术学、交叉学科等9个学科门类，1981年成为国家教育部批准的第一批硕士学位授予单位，1985年成为博士 ...",
+      "url": "https://gaokao.chsi.com.cn/sch/schoolInfo--schId-5,categoryId-29701,mindex-1.dhtml",
+      "verified": false
+    }
   ]
 }
