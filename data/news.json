@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-18T09:42:24+08:00",
+  "updated_at": "2026-10-19T10:00:12+08:00",
   "status": "ok",
-  "fetched_count": 58,
+  "fetched_count": 31,
   "items": [
     {
       "id": "official-2027-full",
@@ -55,11 +55,11 @@
     },
     {
       "id": "5f63879ca746ae534e",
-      "title": "硕士招生-北京工业大学研究生招生网",
+      "title": "硕士招生 Master's Admission",
       "published": "",
-      "source": "yanzhao.bjut.edu.cn",
+      "source": "北工大官方网页",
       "category": "official",
-      "summary": "2027年北京工业大学硕士研究生招生学院、考试科目、考试大纲等调整情况",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
       "url": "https://yanzhao.bjut.edu.cn/sszs.htm",
       "verified": false
     },
