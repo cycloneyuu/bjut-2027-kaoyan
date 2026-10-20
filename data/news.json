@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:00:12+08:00",
+  "updated_at": "2026-10-20T10:17:14+08:00",
   "status": "ok",
   "fetched_count": 31,
   "items": [
@@ -371,6 +371,26 @@
       "category": "official",
       "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
       "url": "https://yanzhao.bjut.edu.cn/info/1025/18206.htm",
+      "verified": false
+    },
+    {
+      "id": "b500abaf5bbb054472",
+      "title": "10-19 2026 【报考点】2027年全国硕士研究生招生考试北京工业大学（1105）报考点审核报考考生情况通知（二）",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1025/18209.htm",
+      "verified": false
+    },
+    {
+      "id": "6fa93eccf377ee409b",
+      "title": "10-19 2026 【招生单位】2027年全国硕士研究生招生考试北京工业大学（10005）招生单位审核报考考生情况通知（二）",
+      "published": "",
+      "source": "北工大官方网页",
+      "category": "official",
+      "summary": "官方网页索引：请点击原文核对适用年份、专业和发布日期。",
+      "url": "https://yanzhao.bjut.edu.cn/info/1025/18208.htm",
       "verified": false
     },
     {
